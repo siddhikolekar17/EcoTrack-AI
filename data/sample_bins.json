@@ -1,0 +1,74 @@
+[
+  {
+    "bin_id": "BIN-001",
+    "location": "Main Canteen",
+    "category": "Biodegradable",
+    "capacity_l": 120,
+    "lat": 16.7052,
+    "lon": 74.2431,
+    "fill_level": 35
+  },
+  {
+    "bin_id": "BIN-002",
+    "location": "Library Entrance",
+    "category": "Dry Recyclable",
+    "capacity_l": 120,
+    "lat": 16.7047,
+    "lon": 74.244,
+    "fill_level": 78
+  },
+  {
+    "bin_id": "BIN-003",
+    "location": "Computer Lab Block",
+    "category": "Hazardous / E-Waste",
+    "capacity_l": 80,
+    "lat": 16.7056,
+    "lon": 74.2427,
+    "fill_level": 96
+  },
+  {
+    "bin_id": "BIN-004",
+    "location": "Hostel Block A",
+    "category": "Dry Recyclable",
+    "capacity_l": 120,
+    "lat": 16.704,
+    "lon": 74.2422,
+    "fill_level": 52
+  },
+  {
+    "bin_id": "BIN-005",
+    "location": "Hostel Mess",
+    "category": "Biodegradable",
+    "capacity_l": 200,
+    "lat": 16.7038,
+    "lon": 74.2429,
+    "fill_level": 84
+  },
+  {
+    "bin_id": "BIN-006",
+    "location": "Admin Building",
+    "category": "Dry Recyclable",
+    "capacity_l": 100,
+    "lat": 16.706,
+    "lon": 74.2438,
+    "fill_level": 22
+  },
+  {
+    "bin_id": "BIN-007",
+    "location": "Electronics Lab",
+    "category": "Hazardous / E-Waste",
+    "capacity_l": 60,
+    "lat": 16.7058,
+    "lon": 74.2445,
+    "fill_level": 41
+  },
+  {
+    "bin_id": "BIN-008",
+    "location": "Sports Ground",
+    "category": "Biodegradable",
+    "capacity_l": 150,
+    "lat": 16.7044,
+    "lon": 74.2452,
+    "fill_level": 64
+  }
+]

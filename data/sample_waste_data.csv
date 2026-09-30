@@ -1,0 +1,49 @@
+student_email,category,item_label,weight_kg,days_ago,status
+siddhi@ecotrack.demo,Biodegradable,banana peel,0.7,26,pending
+siddhi@ecotrack.demo,Dry Recyclable,cardboard box,1.41,1,verified
+aarav@ecotrack.demo,Biodegradable,banana peel,1.58,17,verified
+siddhi@ecotrack.demo,Dry Recyclable,cardboard box,2.93,20,verified
+rohan@ecotrack.demo,Dry Recyclable,plastic bottle,3.33,7,verified
+meera@ecotrack.demo,Biodegradable,vegetable waste,3.03,4,verified
+aarav@ecotrack.demo,Dry Recyclable,plastic bottle,2.08,18,verified
+siddhi@ecotrack.demo,Dry Recyclable,plastic bottle,0.82,18,verified
+rohan@ecotrack.demo,Biodegradable,dry leaves,0.88,14,verified
+meera@ecotrack.demo,Dry Recyclable,cardboard box,1.7,25,pending
+siddhi@ecotrack.demo,Biodegradable,dry leaves,2.77,16,verified
+rohan@ecotrack.demo,Dry Recyclable,newspaper,1.33,19,verified
+rohan@ecotrack.demo,Hazardous / E-Waste,old charger,0.23,24,verified
+rohan@ecotrack.demo,Biodegradable,banana peel,3.28,21,verified
+meera@ecotrack.demo,Biodegradable,dry leaves,2.04,22,verified
+rohan@ecotrack.demo,Biodegradable,banana peel,1.84,26,verified
+siddhi@ecotrack.demo,Biodegradable,banana peel,1.09,23,verified
+rohan@ecotrack.demo,Dry Recyclable,newspaper,2.34,22,verified
+siddhi@ecotrack.demo,Biodegradable,vegetable waste,2.41,11,pending
+siddhi@ecotrack.demo,Biodegradable,food scraps,0.59,24,verified
+rohan@ecotrack.demo,Biodegradable,vegetable waste,2.64,29,verified
+rohan@ecotrack.demo,Hazardous / E-Waste,damaged mouse,0.19,17,verified
+rohan@ecotrack.demo,Biodegradable,dry leaves,0.65,22,verified
+rohan@ecotrack.demo,Biodegradable,food scraps,1.38,4,verified
+aarav@ecotrack.demo,Biodegradable,banana peel,0.7,15,verified
+meera@ecotrack.demo,Dry Recyclable,plastic bottle,0.8,4,verified
+meera@ecotrack.demo,Dry Recyclable,cardboard box,1.42,22,verified
+siddhi@ecotrack.demo,Hazardous / E-Waste,damaged mouse,1.15,28,pending
+rohan@ecotrack.demo,Hazardous / E-Waste,damaged mouse,1.15,12,verified
+rohan@ecotrack.demo,Biodegradable,banana peel,1.79,6,verified
+aarav@ecotrack.demo,Biodegradable,banana peel,0.89,10,verified
+aarav@ecotrack.demo,Dry Recyclable,plastic bottle,0.54,11,verified
+aarav@ecotrack.demo,Dry Recyclable,tin can,0.43,4,verified
+meera@ecotrack.demo,Dry Recyclable,tin can,3.35,3,verified
+rohan@ecotrack.demo,Biodegradable,vegetable waste,1.81,15,verified
+meera@ecotrack.demo,Biodegradable,dry leaves,0.68,15,verified
+siddhi@ecotrack.demo,Dry Recyclable,cardboard box,0.73,16,pending
+siddhi@ecotrack.demo,Biodegradable,dry leaves,2.48,20,verified
+meera@ecotrack.demo,Hazardous / E-Waste,circuit board,0.87,29,verified
+meera@ecotrack.demo,Biodegradable,food scraps,2.75,19,verified
+aarav@ecotrack.demo,Dry Recyclable,cardboard box,3.45,26,verified
+aarav@ecotrack.demo,Biodegradable,vegetable waste,2.85,11,verified
+meera@ecotrack.demo,Dry Recyclable,tin can,3.47,8,verified
+meera@ecotrack.demo,Biodegradable,vegetable waste,2.2,25,verified
+meera@ecotrack.demo,Hazardous / E-Waste,AA batteries,1.19,7,verified
+meera@ecotrack.demo,Biodegradable,food scraps,1.75,15,pending
+siddhi@ecotrack.demo,Dry Recyclable,tin can,3.17,29,verified
+siddhi@ecotrack.demo,Dry Recyclable,plastic bottle,2.84,29,verified

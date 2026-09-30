@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+data/ecotrack.db
+generated/qr_codes/*.png
+generated/uploads/*
+!generated/qr_codes/.gitkeep
+!generated/uploads/.gitkeep
+models/waste_classifier/*.keras
+models/waste_classifier/*.tflite
+.DS_Store
+
+.streamlit/secrets.toml
