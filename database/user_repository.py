@@ -61,8 +61,12 @@ def list_users(role: str | None = None) -> list[dict]:
 def count_users() -> int:
     return query_one("SELECT COUNT(*) AS n FROM users")["n"]
 
-
 def leaderboard(limit: int = 10) -> list[dict]:
+    """Return the top student users ordered by credits."""
+
+    if limit <= 0:
+        raise ValueError("Leaderboard limit must be greater than 0.")
+
     return query(
         "SELECT user_id, name, credits FROM users WHERE role='student' "
         "ORDER BY credits DESC, name LIMIT ?", (limit,))
